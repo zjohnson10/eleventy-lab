@@ -4,7 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:zjohnson10/eleventy-lab.git"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +17,9 @@
   "devDependencies": {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0"
+  },
+  "homepage": "https://github.com/zjohnson10/eleventy-lab/README.md",
+  "devDependencies":  {
+    "node_modules": "https://github.com/zjohnson10/eleventy-lab/node_modules"
   }
 }
