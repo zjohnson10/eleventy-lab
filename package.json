@@ -15,12 +15,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "devDependencies": {
+  "bugs": {
+    "url": "https://github.com/zjohnson10/eleventy-lab/issues"
+  },
+  "homepage": "https://github.com/zjohnson10/eleventy-lab#readme",
+  "devDependencies":  {
     "@11ty/eleventy": "^1.0.0",
     "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0"
-  },
-  "homepage": "https://github.com/zjohnson10/eleventy-lab/README.md",
-  "devDependencies":  {
-    "node_modules": "https://github.com/zjohnson10/eleventy-lab/node_modules"
   }
 }
