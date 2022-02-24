@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:zjohnson10/eleventy-lab.git"
+    "url": "git+https://github.com/zjohnson10/eleventy-lab.git"
   },
   "keywords": [],
   "author": "",
