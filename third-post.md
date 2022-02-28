@@ -1,4 +1,4 @@
-### [Return to posts page](posts)
+### [Return to posts page](/eleventy-lab/posts)
 
 # Getting Started with Docker
 
