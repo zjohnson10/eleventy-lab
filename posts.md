@@ -10,4 +10,4 @@
 
  
 
-### [Return to home page](/)
+### [Return to home page](/eleventy-lab/)
