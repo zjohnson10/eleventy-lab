@@ -1,4 +1,4 @@
-### [Return to posts page](posts)
+### [Return to posts page](/eleventy-lab/posts)
 
 
 # Basic Web Components with Open-wc, npm, node.js, and VScode
